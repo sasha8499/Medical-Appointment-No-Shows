@@ -10,3 +10,10 @@ Source: Kaggle — Medical Appointment No Shows
 Records: 110,527 appointments
 
 Columns: 14
+
+## Tools Used
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+Excel (for validation)
