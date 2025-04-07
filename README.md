@@ -13,7 +13,7 @@ Records: 110,527 appointments
 Columns: 14
 
 ## Tools Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas, NumPy)
 
 Jupyter Notebook
 
