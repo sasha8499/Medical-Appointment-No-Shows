@@ -29,4 +29,4 @@ Feature Engineering
 **MOHD. KHAJA PASHA**  
 Data Analyst | SQL Enthusiast | Data Storyteller
 
-🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/)*  
+🔗 *Connect with me on [LinkedIn](www.linkedin.com/in/mohd-khaja-pasha/)*
