@@ -18,3 +18,15 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 Jupyter Notebook
 
 Excel (for validation)
+
+## Steps Performed
+
+Data cleaning
+
+Feature Engineering
+
+## 🙌 **Author**
+**MOHD. KHAJA PASHA**  
+Data Analyst | SQL Enthusiast | Data Storyteller
+
+🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/)*  
