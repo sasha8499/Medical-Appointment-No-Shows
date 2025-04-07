@@ -6,5 +6,7 @@ The goal is to explore trends in patient behavior and identify insights that cou
 - <a href =  "https://www.kaggle.com/datasets/joniarroba/noshowappointments" >Dataset</a>
 
 Source: Kaggle — Medical Appointment No Shows 
+
 Records: 110,527 appointments
+
 Columns: 14
